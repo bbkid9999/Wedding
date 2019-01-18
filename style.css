@@ -1,3 +1,10 @@
 body {
-  background-color: blue;
+  background-color: #2df7a7;
+}
+#NoraPoem {
+  text-align: center;
+  text-decoration-style: solid;
+  font-weight: bold;
+  font-family: cursive;
+  color:  #FA8072;
 }
