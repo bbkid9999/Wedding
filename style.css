@@ -8,3 +8,11 @@ body {
   font-family: cursive;
   color:  #FA8072;
 }
+#picture1 {
+  border-radius: 50px;
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
