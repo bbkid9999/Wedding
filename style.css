@@ -16,3 +16,15 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.container {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 10px;
+  left: 45%;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
